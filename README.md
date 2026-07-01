@@ -29,7 +29,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,mongodb,git,github,vscode,anaconda,linux,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib" />
+<img src="https://skillicons.dev/icons?i=python,java,node.js, reach,express. js,mysql,mongodb,git,github,vscode,anaconda,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib" />
 
 </p>
 
@@ -58,7 +58,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,linux,windows,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,windows,figma" />
 
 </p>
 
